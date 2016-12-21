@@ -3,7 +3,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: pxcex <pxcex@icloud.com>
 Depends: mobilesubstrate
-Filename: .//com.pxcex.jooxpremium.deb
+Filename: debs//com.pxcex.jooxpremium.deb
 Size: 7076
 MD5sum: e4aa12fdf1b9b7e23b05984beeef4867
 SHA1: 86e0153123cf2a99176825b6d9b59e6ec9d7e274
