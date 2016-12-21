@@ -1,0 +1,15 @@
+Package: com.pxcex.jooxpremium
+Version: 1.0
+Architecture: iphoneos-arm
+Size: 5370
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: .//com.pxcex.jooxpremium_1.0_iphoneos-arm.deb
+MD5sum: c8789fb4836d0e87ffb9ff5b6334088f
+SHA1: fd259980c9800a0c7abf975523b08d65971dea58
+SHA256: bdf87d6e9b46651bbb2459c2912af0b39f75ae267ffb5cdc0787196cc0ead327
+Section: Tweaks
+Description: VIP Music, Download Music, Kualitas Streaming Premium, DTS 2063, Enjoy Music
+Author: pxcex
+Depiction: https://paxcex.github.io/beta/depictions/com.pxcex.jooxpremium/index.html
+Name: JOOX Premium
